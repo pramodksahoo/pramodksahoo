@@ -1,4 +1,4 @@
-## Hi Geeks, 👋
+## Hi Geeks,  👋    I'M Pramod 👩🏾‍💻
 
 ##### Welcome to my GitHub
 
@@ -36,8 +36,9 @@
         - Prometheus
     
 ```     
+## Find me around the web 🌎:
 
-### ⚙️ Connect with Me
+### ⚙️ Connect with Me :
 
 <p align="center">
 <a href="mailto:devopspramod100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
