@@ -10,6 +10,7 @@
 ❄️ Container Orchestration:
         - OpenShift
         - Kubernetes
+        - AWS EKS 
 ❄️ CI/CD Tools:
         - Jenkins
         - Bamboo
@@ -24,6 +25,7 @@
         - RedHat Linux Release
         - Ubuntu
         - CentOS
+        - Windows
 ❄️ Infrastructure As a Code:
         - Terraform
         - CloudFormation
@@ -34,7 +36,10 @@
         - Zabbix
         - Splunk
         - Prometheus
-    
+❄️ Working Tools:
+        - Teleport
+        - IBM DB2 setup
+        
 ```     
 ## Find me around the web 🌎:
 
