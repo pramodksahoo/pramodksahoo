@@ -3,7 +3,7 @@
 ##### Welcome to my GitHub
 
 ```
-👋 Hi, I’m Pramod Sahoo
+👋 Hi, I’m Pramoda Sahoo
 
 ❄️ Working as DevOps Engineer
   
@@ -14,6 +14,8 @@
 ❄️ CI/CD Tools:
         - Jenkins
         - Bamboo
+        - Bitbucket Pipelines
+        - GitLab CI/CD
 ❄️ Configuration Management:
         - Ansible
 ❄️ Cloud platform: 
@@ -36,6 +38,7 @@
         - Zabbix
         - Splunk
         - Prometheus
+        - Grafana
 ❄️ Working Tools:
         - Teleport
         - IBM DB2 setup
