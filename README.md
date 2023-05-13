@@ -16,6 +16,7 @@
         - Bamboo
         - Bitbucket Pipelines
         - GitLab CI/CD
+        - Azure DevOps (Pipeline)
 ❄️ Configuration Management:
         - Ansible
 ❄️ Cloud platform: 
