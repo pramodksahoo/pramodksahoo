@@ -1,4 +1,4 @@
-## Hi Geeks,  👋    I'M Pramod 👩🏾‍💻
+## Hi Geeks,  👋    I'M Pramoda 👩🏾‍💻
 
 ##### Welcome to my GitHub
 
