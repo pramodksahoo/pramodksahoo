@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm a passionate DevOps & Platform Engineering with **11+ years** of experience building and scaling cloud infrastructure. I love solving complex problems with simple, elegant solutions and helping development teams ship faster while maintaining rock-solid reliability.
 
 ---
-You may follow my latest [[Blogs here]](https://pramodksahoo.github.io/)
+You may follow my latest **[[Blogs here]](https://pramodksahoo.github.io/)**
 
 ## 🎯 **What I Do Best**
 
