@@ -112,6 +112,7 @@ I understand that technology serves business goals. Every architectural decision
 ## 🏆 **Certifications & Recognition**
 
 ### 📜 **Professional Certifications**
+🔹 **AWS Certified Solution Architect - Professional**
 🔹 **AWS Certified DevOps Engineer - Professional**  
 🔹 **AWS Certified SysOps Administrator - Associate**  
 🔹 **Red Hat OpenShift Administration**  
